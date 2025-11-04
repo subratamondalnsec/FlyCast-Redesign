@@ -1,1 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Fustat:wght@200..800&display=swap');
+
 @import "tailwindcss";
+@import "./styles/animations.css";
+
+html, body{
+    font-family: 'Fustat', sans-serif;
+    
+}
